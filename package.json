@@ -1,0 +1,19 @@
+{
+  "name": "atividade1_3sem",
+  "version": "1.0.0",
+  "description": "atividade 1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rycardo",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
